@@ -1,6 +1,6 @@
 ### Hi there, I'm [Anubhav Sinha][website]
 
-<img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
+<img align='right' src="https://media1.tenor.com/images/b6792c305302f79392750175acf06cab/tenor.gif?itemid=13136559" width="230">
 
 ## I'm a Developer, Learner and passionate Engineer!!
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/twitter/twitter.png" />][twitter]
+
 [<img align="left" alt="Linkedin" width="22px" src="https://icons-for-free.com/download-icon-linked+linkedin+logo+social+icon-1320191784782940875_512.png" />][linkedin]
 <br />
 
