@@ -13,6 +13,8 @@
 
 
 [<img align="left" alt="Linkedin" width="22px" src="https://icons-for-free.com/download-icon-linked+linkedin+logo+social+icon-1320191784782940875_512.png" />][linkedin]
+
+[<img align="left" alt="Twitter" width="22px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />][twitter]
 <br />
 
 ### Languages and Tools:
@@ -25,6 +27,7 @@
 [website]: https://github.com/anubhav1107
 [linkedin]: https://www.linkedin.com/in/anubhav-sinha-9334bb180/
 [webdevplaylist]: https://github.com/anubhav1107
+[twitter]: https://twitter.com/a4anubhavonly
 
 ### Follow Me :
 ![image](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
