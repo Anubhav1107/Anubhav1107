@@ -6,8 +6,8 @@
 
 - 💻 I’m currently working on Machine Learning
 - 📡 I’m currently learning Database
-- 🥅 2021 Goals: API, Caching
-- 💬 Ask me about Python,Machine Learning, Database(Mysql)
+- 🥅 2022 Goals: API, Caching
+- 💬 Ask me about Python, Machine Learning, Database(Mysql)
 
 ### Connect with me:
 
