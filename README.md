@@ -1,6 +1,6 @@
 ### Hi there, I'm [Anubhav Sinha][website]
 
-###<img align='right' src="https://media1.tenor.com/images/b6792c305302f79392750175acf06cab/tenor.gif?itemid=13136559" width="230">
+## <img align='right' src="https://media1.tenor.com/images/b6792c305302f79392750175acf06cab/tenor.gif?itemid=13136559" width="230">
 
 ## I'm a Developer, Learner and passionate Engineer!!
 
