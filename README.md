@@ -1,13 +1,13 @@
 ### Hi there, I'm [Anubhav Sinha][website]
 
-## <img align='right' src="https://media1.tenor.com/images/b6792c305302f79392750175acf06cab/tenor.gif?itemid=13136559" width="230">
+<!-- <img align='right' src="https://media1.tenor.com/images/b6792c305302f79392750175acf06cab/tenor.gif?itemid=13136559" width="230"> -->
 
 ## I'm a Developer, Learner and passionate Engineer!!
 
-- 💻 I’m currently working on Machine Learning
-- 📡 I’m currently learning Database
+- 💻 I’m currently working on Spring Boot
+- 📡 I’m currently learning C++ and working on Competitve Programming. 
 - 🥅 2022 Goals: API, Caching
-- 💬 Ask me about Python, Machine Learning, Database(Mysql)
+- 💬 Ask me about Python, Machine Learning, Database(Mysql), Spring, Java
 
 ### Connect with me:
 
