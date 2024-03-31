@@ -5,8 +5,8 @@
 ## I'm a Developer, Learner and passionate Engineer!!
 
 - 💻 I’m currently working on Spring Boot
-- 📡 I’m currently learning C++ and working on Competitve Programming. 
-- 🥅 2023 Goals: MicroServices
+- 📡 I’m currently working on Competitive Programming using Python. 
+- 🥅 2024 Goals: MicroServices
 - 💬 Ask me about Java, Python, Machine Learning, Database(Mysql), Spring
 
 ### Connect with me:
