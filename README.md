@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Linkedin" width="22px" src="https://icons-for-free.com/iff/png/256/linkedin-1319971784646805614.png" />][linkedin]
 
-[<img align="left" alt="Twitter" width="22px" src="https://icons-for-free.com/iff/png/256/twitter-131994889870412653.png" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://icons-for-free.com/iff/png/512/twitter-131994968072185767.png" />][twitter]
 <br />
 
 ### Languages and Tools:
