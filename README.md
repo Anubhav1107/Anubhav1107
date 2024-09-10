@@ -19,13 +19,12 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://icons-for-free.com/iff/png/256/java+original+wordmark-1324760550562670345.png" />]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][webdevplaylist]
+[<img align="left" alt="SQL" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
+[<img align="left" alt="Pytorch" width="128px" src="https://duckduckgo.com/i/fdc3523f.png" />][webdevplaylist]
 <br />
 
 [website]: https://github.com/anubhav1107
 [linkedin]: https://www.linkedin.com/in/anubhavsinha11/
 [webdevplaylist]: https://github.com/anubhav1107
 [twitter]: https://twitter.com/a4anubhavonly
-
