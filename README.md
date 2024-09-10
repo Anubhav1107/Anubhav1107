@@ -14,7 +14,7 @@
 
 [<img align="left" alt="Linkedin" width="22px" src="https://icons-for-free.com/iff/png/256/linkedin-1319971784646805614.png" />][linkedin]
 
-[<img align="left" alt="Twitter" width="22px" src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" />][twitter]
+[<img align="left" alt="Twitter" width="22px" src="https://icons-for-free.com/iff/png/256/twitter-131994889870412653.png" />][twitter]
 <br />
 
 ### Languages and Tools:
